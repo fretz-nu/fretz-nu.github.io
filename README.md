@@ -13,4 +13,4 @@ System.out.println("Hello World!");
 [VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
   
-This domain is owned and hosted by Christian D. Caguicla.
+This domain is owned by Christian D. Caguicla. | Hosted on Github Pages.
