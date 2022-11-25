@@ -4,7 +4,7 @@
   SOCIAL MEDIA LINKS:
   [FACEBOOK](https://www.facebook.com/1Caguicla.christian/)
   [GITHUB](https://github.com/fretz-nu)
-  [DISCORD} (http://discordapp.com/users/859873924211802172)
+  [DISCORD](http://discordapp.com/users/859873924211802172)
   
   This is my favorite code in java:
   ```java
